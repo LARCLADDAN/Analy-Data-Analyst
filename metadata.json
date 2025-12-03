@@ -1,0 +1,4 @@
+{
+  "name": "Analy - Analista de Datos IA",
+  "description": "Un agente inteligente de análisis de datos capaz de conectarse a Datos Abiertos (Socrata), procesar archivos CSV/XLSX y generar visualizaciones interactivas.",
+}
