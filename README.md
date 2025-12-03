@@ -2,8 +2,8 @@
 Un asistente inteligente que transforma datos en decisiones.
 
 ---
-### 📘 Presentación de Analy
-<a href="https://www.linkedin.com/posts/luis-alberto-ram%C3%ADrezz-castellanos-a47aa8256_presentaci%C3%B3n-de-analy-activity-7401604964348829698-jcid?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD8qfdcBgFbdpmY0BVZRsFuwusIciCr0xC8">
+### 📘 Web App de Analy
+<a href="https://analy-analista-de-datos-ia-650531894873.us-west1.run.app/">
   <img src="https://raw.githubusercontent.com/LARCLADDAN/Analy/refs/heads/main/assets/Analy_Agente_Analista_de_Datos.png" width="350">
 </a>
 
